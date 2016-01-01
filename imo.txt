@@ -76,7 +76,7 @@ gd	ぅ
 gs	ぇ
 ga	ぉ
 kh	ゃ
-kj	。
+kj	。
 kk	ゅ
 kl	、
 k;	ょ
@@ -86,8 +86,9 @@ lk	ん
 ll	，
 l;	」
 ;h	（
-;j	；
-;k	＠
+;j	；
+;k	＠
 ;l	：
 ;;	）
 as	ー
+ad	っ
